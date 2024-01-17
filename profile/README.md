@@ -1,4 +1,14 @@
-## Hi there 👋
+# ALFAN
+## Tim Robot Tari Universitas Gadjah Mada
+
+**Achievement**🏆  
+🥇 Juara 1 Kontes Robot Indonesia Divisi KRSTI Tingkat Nasional Tahun 2022  
+🏅 Best Artistic Kontes Robot Indonesia Divisi KRSTI Tingkat Nasional Tahun 2022  
+🥈 Juara 2 Kontes Robot Indonesia Divisi KRSTI Tingkat Regional Tahun 2023  
+🏅 8 Besar Kontes Robot Indonesia Divisi KRSTI Tingkat Nasional Tahun 2023  
+
+
+Contact : gmrtugm.krsti.alfan@gmail.com
 
 <!--
 
